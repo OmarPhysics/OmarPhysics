@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Omar González or @OmarPhysics here.
+- 👋 Hi, I’m Omar González.
 - 👀 I’m interested in science, tecnology and education.
 - 🌱 I’m currently learning Physics and Artificial Intelligence. I want to be a data scientist.
 - 💞️ I’m looking to collaborate in a technology company.
